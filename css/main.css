@@ -1,0 +1,7 @@
+header {
+  height: 90px;
+  text-align: center;
+  font-size: 3rem;
+  text-transform: uppercase;
+  border-bottom: 1px white solid;
+}
